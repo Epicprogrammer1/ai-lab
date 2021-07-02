@@ -13,14 +13,14 @@ College ka ai programs<br>
  <li><a href="DFS.py">Implement an Uninformed search algorithm : Depth First search </a></li>
  <li><a href="/IDFS.py">Implement an Uninformed search algorithm: IDFS</a></li>
   <hr>
-  <h3>Problems<img src="https://media1.tenor.com/images/08bcceed8e1c751731b9d7c987834175/tenor.gif?itemid=15608289" width="100rem"></h3>
+  <h3>Problems<img src="https://media1.tenor.com/images/08bcceed8e1c751731b9d7c987834175/tenor.gif?itemid=15608289" width="80rem"></h3>
   <hr>
  <li><a href="Water_Jug_problem.py">Solve the Water Jug problem</a> (<a href="https://github.com/Epicprogrammer1/ai-lab/blob/main/Untitled.png">Output Image</a>)</li> 
   <li><a href="8-Puzzle-A-star.py">Solve 8-puzzle problem using A* algorithm</a></li>
   <li><a href="n-queens.py">Solve n-queens problem</a></li>
   <li><a href="Crypt-Arthmetic-Algo.py">Implement the AI program on Crpt arithmetic Problem</a></li>
  <hr>
-  <h3>Game Theory Algorithms <img src="https://media1.tenor.com/images/73bb106d70bb206d4b80e0dfe969930f/tenor.gif?itemid=18060414" width="100rem"></h3>
+  <h3>Game Theory Algorithms <img src="https://media1.tenor.com/images/73bb106d70bb206d4b80e0dfe969930f/tenor.gif?itemid=18060414" width="80rem"></h3>
  <hr>
   <li><a href="min-max.py">Implement minmax Algorithm</a></li>
   <li><a href="alpha-beta-pruning.py">Implement Alpha-Beta Pruning Algorithm</a></li>
