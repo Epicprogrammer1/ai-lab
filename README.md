@@ -20,7 +20,7 @@ College ka ai programs<br>
   <li><a href="n-queens.py">Solve n-queens problem</a></li>
   <li><a href="Crypt-Arthmetic-Algo.py">Implement the AI program on Crpt arithmetic Problem</a></li>
  <hr>
-  <h3>Game Theory Algorithms <div class="tenor-gif-embed" data-postid="18060414" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/game-theory-intro-gif-18060414">Game Theory Intro GIF</a> from <a href="https://tenor.com/search/gametheory-gifs">Gametheory GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script><h3>
+  <h3>Game Theory Algorithms <img src="https://media1.tenor.com/images/73bb106d70bb206d4b80e0dfe969930f/tenor.gif?itemid=18060414"><h3>
  <hr>
 </ol>
 
