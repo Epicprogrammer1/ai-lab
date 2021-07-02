@@ -7,7 +7,7 @@ College ka ai programs<br>
 <li><a href="Python_lists.py">Implement a python program to implement List operations (Nested List, Length, Concatenation, Membership, Iteration, Indexing and Slicing),</a></li>
  <li><a href="Python_lists_2.py">Implement the programs on List methods (Add, Append, Extend Delete, Find,Search)Implement the programs on List methods (Add, Append, Extend Delete, Find,Search)</a></li>
  <hr>
- <h3>Uninfromed Search Techniques</h3>
+ <h3>Uninfromed Search Techniques</h3><img src="https://media1.tenor.com/images/e3976785784da43de7a91bf8bd74276c/tenor.gif?itemid=15106557" width="80rem">
  <hr>
   <li><a href="BFS.py">Implement an Uninformed search algorithm: Breadth first search</a></li>
  <li><a href="DFS.py">Implement an Uninformed search algorithm : Depth First search </a></li>
