@@ -19,8 +19,8 @@ College ka ai programs<br>
   <li><a href="8-Puzzle-A-star.py">Solve 8-puzzle problem using A* algorithm</a></li>
   <li><a href="n-queens.py">Solve n-queens problem</a></li>
   <li><a href="Crypt-Arthmetic-Algo.py">Implement the AI program on Crpt arithmetic Problem</a></li>
- <br>
+ <hr>
   <h3>Game Theory Algorithms<h3>
- <br>
+ <hr>
 </ol>
 
