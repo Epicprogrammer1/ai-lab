@@ -17,5 +17,6 @@ College ka ai programs<br>
   <hr>
  <li><a href="Water_Jug_problem.py">Solve the Water Jug problem</a> (<a href="https://github.com/Epicprogrammer1/ai-lab/blob/main/Untitled.png">Output Image</a>)</li> 
   <li><a href="8-Puzzle-A-star.py">Solve 8-puzzle problem using A* algorithm</a></li>
+  <li><a href="n-queens.py">Solve n-queens problem</a></li>
 </ol>
 
