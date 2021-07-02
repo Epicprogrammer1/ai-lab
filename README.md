@@ -15,6 +15,6 @@ College ka ai programs<br>
   <hr>
   <h3>Problems</h3>
   <hr>
- <li><a href="water_jug.py">Solve the Water Jug problem</a></li>
+ <li><a href="Water_Jug_problem.py">Solve the Water Jug problem</a></li>
 </ol>
 
