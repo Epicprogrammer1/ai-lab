@@ -30,3 +30,19 @@ print("Element at 0 and -1 index of 'a' are: ",a[0],a[-1])
 #slicing 
 c=a+b
 print("Slicing:",c[0:len(c):2])
+
+"""
+Output:
+Length of nested List is :  5
+a+b is  [1, 2, 3, 4, 5, 6]
+1 is present in list a True
+9 is present in list a False
+10 is not present in a  True
+Elements of list a are: 
+[1, 2, 3]
+[1, 2, 3]
+[1, 2, 3]
+Element at 0 and -1 index of 'a' are:  1 3
+Slicing: [1, 3, 5]
+
+"""
