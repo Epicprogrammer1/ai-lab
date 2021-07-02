@@ -12,6 +12,9 @@ College ka ai programs<br>
   <li><a href="BFS.py">Implement an Uninformed search algorithm: Breadth first search</a></li>
  <li><a href="DFS.py">Implement an Uninformed search algorithm : Depth First search </a></li>
  <li><a href="/IDFS.py">Implement an Uninformed search algorithm: IDFS</a></li>
+  <hr>
+  <h3>Problems</h3>
+  <hr>
  <l1><a href="water_jug.py">Solve the Water Jug problem</a></li>
 </ol>
 
