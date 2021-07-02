@@ -22,5 +22,7 @@ College ka ai programs<br>
  <hr>
   <h3>Game Theory Algorithms <img src="https://media1.tenor.com/images/73bb106d70bb206d4b80e0dfe969930f/tenor.gif?itemid=18060414" width="40rem"><h3>
  <hr>
+  <li><a href="min-max.py">Implement minmax Algorithm</a></li>
+  <li><a href="alpha-beta-pruning.py">Implement Alpha-Beta Pruning Algorithm</a></li>
 </ol>
 
